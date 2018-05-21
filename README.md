@@ -16,7 +16,7 @@ But it's encrypted using three clues!
 
 GOOD LUCK!
 
-A: Harmony Pilates Studio ... where you're more than just a number, unless it’s MBO
+A: Harmony Pilates ... where you're more than just a number, unless it’s MBO
 
 B: The number of hours per day that the Anytime Fitness in Fairmount is open plus the number of hours per day that all of the Anytime Fitnesses in Ann Arbor are open minus the number of hours per day that the Anytime Fitness nearest to Xiang’s home is open minus 24
 
