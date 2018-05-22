@@ -20,9 +20,9 @@ A: Harmony Pilates* ... where you're more than just a number, unless it’s MBO
 
 B: The number of hours per day that the Anytime Fitness in Fairmount is open plus the number of hours per day that all of the Anytime Fitnesses in Ann Arbor are open minus the number of hours per day that the Anytime Fitness nearest to Xiang’s home is open minus 24
 
-C: 407,201 Club OS users were born in this year. (84)
+C: 407,201 Club OS users were born in this year.
 
-D: The most common birth year among Club OS users (1990)
+D: The most common birth year among Club OS users.
 
 E: The very first Club OS user has this number in their username.
 
