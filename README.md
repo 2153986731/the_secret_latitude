@@ -30,7 +30,7 @@ F: The percentage of Club OS users at Anytime Fitness that are female.
 
 G: The percentage of Club OS users at Orange Theory that are female.
 
-H: On December 5th, 2013, Aaron sent Loria an email. He wanted to what she ate over the past how many days?
+H: On December 5th, 2013, Aaron sent Loria an email. He wanted to know what she ate over the past how many days?
 
 The latitude (L) is = [A,(D%(E+1)),B*H,CEILING((C-G)/F)*H]
 
