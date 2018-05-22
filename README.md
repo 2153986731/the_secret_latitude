@@ -24,17 +24,15 @@ C: 407,201 Club OS users were born in this year. (84)
 
 D: The most common birth year among Club OS users (1990)
 
-E: The very first Club OS user has this number in their username. (3) 
+E: The very first Club OS user has this number in their username.
 
-F: The very first Club OS user was created on this date in January 2010.
+F: The percentage of Club OS users at Anytime Fitness that are female.
 
-G: The percentage of Club OS users at Anytime Fitness that are female. (11)
+G: The percentage of Club OS users at Orange Theory that are female.
 
-H: The percentage of Club OS users at Orange Theory that are female. (63)
+H: On December 5th, 2013, Aaron sent Loria an email. He wanted to what she ate over the past how many days?
 
-I: On December 5th, 2013, Aaron sent Loria an email. He wanted to what she ate over the past how many days?
-
-The latitude (L) is = [A,(D%(E+1)),B*I,CEILING((C-H)/G)*I]
+The latitude (L) is = [A,(D%(E+1)),B*H,CEILING((C-G)/F)*H]
 
 Text me ""+L if you figure out an answer, and I'll letcha know if it rings a bell.
 
