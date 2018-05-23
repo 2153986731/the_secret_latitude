@@ -12,7 +12,7 @@ You want a LATITUDE?
 
 Well, ok I have one of those too.
 
-But it's encrypted using three clues!
+But it's encrypted using a series of clues!
 
 GOOD LUCK!
 
